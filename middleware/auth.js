@@ -21,5 +21,3 @@ const auth = async (req, res, next) =>{
 
 module.exports = auth
 
-//bunu auth işlemi gerekmeden yapılacak şeyler için kullanmayız
-// yeni bir post oluşturmak için kullanmalıyız creaatePost ta kullandık.
